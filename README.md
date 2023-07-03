@@ -1,1 +1,1 @@
-Here is the thing. I do not get how this thing work. Absolutly no idea, blank space. So just gonna add randomly files and hope that one day I will figure out what was I suppesed to do to make it look good and organised. 
+It is my first try to write something in java script, so it's gonna be shitty. But this time I decided to start showing myself the progress, which I guess will also be a great motivation. Woooho the vacation started, and this year I am not gonna waste it, at least not entirely.
