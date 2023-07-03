@@ -1,2 +1,1 @@
-# first-little-project-js
-first try to code something in java script
+It is my first try to write something in java script, so it's gonna be shitty. But this time I decided to start showing myself the progress, which I guess will also be a great motivation. Woooho the vacation started, and this year I am not gonna waste it, at least not entirely.
