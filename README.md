@@ -2,4 +2,4 @@ It is my first try to write something in java script, so it's gonna be shitty. B
 
 03.06.23
 
-After a day, I haven't done much with the project, and for now it's just a shape going left, right, up and down allllll the time. Although I made great progress in understanding how this whole thing works on my computer and how to get it going. So overall, I guess I am proud of myself. Oh, and almost forgot: I fucking figured out how the website even works (which I know is late but still took a hell of a time).
+After a day, I haven't done much with the project, and for now it's just a shape going left, right, up and down allllll the time. Although I made great progress in understanding how this whole thing works on my computer and how to get it going. So overall, I guess I am proud of myself. Oh, and almost forgot: I fucking figured out how THIS website even works (which I know is late but still took a hell of a time).
