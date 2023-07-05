@@ -79,7 +79,7 @@ function keyss(){
   	sprite.dy /= 1.1;
   }
   if (keyPressed('enter')) {
-  	RNczestart();
+  	Restart();
   } 
 }
 
@@ -95,4 +95,3 @@ let loop = kontra.GameLoop({
 });
 
 loop.start();
-
